@@ -1,6 +1,6 @@
-# KiCad sub-PCBs
-===============
-create sub-pcbs according to sub schematic file
+KiCad sub-PCBs
+==========
+create sub-pcbs according to sub-schematic file
 
 How to use
 ==========
